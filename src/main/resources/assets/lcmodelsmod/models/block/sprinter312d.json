@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "lcmodelsmod:models/block/test/police-car.obj",
+  "transform": {
+    "scale": [2, 2, 2],
+    "translation": [2, 1, 0]
+  }
+}
